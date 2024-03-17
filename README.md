@@ -1,7 +1,8 @@
 ### Hi there 👋
-#### There is Harvery.
+#### This is Harvery.
 - 🔭 I’m currently studying on BJUT/UCD.
 - 🌱 I’m currently learning Medical report generation
+- 💬 I will join in HKU to start the master degree lectures. I am looking forward to a PhD position next year.
 
 <!--
 **UlanqabBadGuy/UlanqabBadGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
