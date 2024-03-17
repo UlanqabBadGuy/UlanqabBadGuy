@@ -1,5 +1,7 @@
 ### Hi there 👋
-#### A common page for a common person.
+#### There is Harvery.
+- 🔭 I’m currently studying on BJUT/UCD.
+- 🌱 I’m currently learning Medical report generation
 
 <!--
 **UlanqabBadGuy/UlanqabBadGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
