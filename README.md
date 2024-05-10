@@ -5,7 +5,7 @@
 - 💬 I will join in HKU to start the master degree lectures. I am looking forward to a PhD position next year.
 
 ## Links：
-- Linkedin：[Jiahui Han](https://www.linkedin.com/in/jiahui-han520)
+- Linkedin：[Jiahui Han](https://www.linkedin.com/in/jiahui-han520/)
 - CSDN: [Harvery_](https://blog.csdn.net/Harvery_?type=blog)
 - ORCiD: [Jiahui Han](https://orcid.org/0009-0005-6491-4009)
   
