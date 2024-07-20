@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### This is Harvery.
-- 🔭 I’m currently studying on BJUT/UCD.
+- 🔭 I have graduated from BJUT and UCD. Yeaaah!
 - 🌱 I’m currently learning Medical report generation
 - 💬 I will join in HKU to start the master degree lectures. I am looking forward to a PhD position next year.
 
