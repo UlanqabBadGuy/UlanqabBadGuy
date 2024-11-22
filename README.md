@@ -8,7 +8,6 @@
 - Linkedin：[Jiahui Han](https://www.linkedin.com/in/jiahui-han520/)
 - Google Scholar: [Jiahui Han](https://scholar.google.com/citations?user=RalbidgAAAAJ&hl=en)
 - ORCiD: [Jiahui Han](https://orcid.org/0009-0005-6491-4009)
-- Google scholar: [Jiahui Han](https://scholar.google.com/citations?user=RalbidgAAAAJ&hl=zh-CN)
 ## Publication:
 - [MIAE: A Mobile Application Recommendation Method Based on a NTK Model](https://ieeexplore.ieee.org/document/10386764)
 
