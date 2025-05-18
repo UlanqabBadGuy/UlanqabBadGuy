@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### This is Harvery.
 - 🔭 I have graduated from UCD. Yeaaah!
-- 🌱 I’m currently learning Medical report generation
+- 🌱 I’m currently interested in Genomes CROSS CS.
 - 💬 I am in HKU for the master degree lectures now. I am looking forward to a PhD position next year.
 
 ## Links：
