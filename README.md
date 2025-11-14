@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### This is Harvery.
-- 🔭 I have graduated from UCD. Yeaaah!
-- 🌱 I’m currently interested in Genomes CROSS CS.
-- 💬 I am in HKU for the master degree lectures now. I am looking forward to a PhD position next year.
+- 🔭 I have graduated from The University of Hong Kong!
+- 🌱 I’m currently interested in Genomes ✖️ CS.
+- 💬 On my way to build. See you later.
 
 ## Links：
 - Linkedin：[Jiahui Han](https://www.linkedin.com/in/jiahui-han520/)
