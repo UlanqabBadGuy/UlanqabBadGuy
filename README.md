@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### This is Harvery.
 <!-- - 🔭 I have graduated from The University of Hong Kong!-->
-- 🌱 Try to be weathy.
+- 🌱 Try to be wealthy.
 - 💬 On my way to build. See you later.
 <!--
 ## Links：
